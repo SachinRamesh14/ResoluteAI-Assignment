@@ -2,8 +2,8 @@
 ResoluteAI - facegenie assignment
 
 ## Description
-
-This automation testing project demonstrates how to automate web testing using Selenium WebDriver with Python. It includes sample test scripts, configurations, and guidelines for running automated tests.
+   this assignment was given by ResoluteAI, for the role of QA tester.this brief about testing the web site "facegenie". 
+   test funcnalities and activities and Performance of the web site.
 
 ## Table of Contents
 
